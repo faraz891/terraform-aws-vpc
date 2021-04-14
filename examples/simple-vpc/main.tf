@@ -1,5 +1,7 @@
 provider "aws" {
   region = "eu-west-1"
+  aws_access_key_id = "AKIA5MZCKJMCZNL4DSEE"
+  aws_secret_access_key = "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"
 }
 
 module "vpc" {
