@@ -1,7 +1,7 @@
 provider "aws" {
   region = "eu-west-1"
-  access_key = "AKIA5MZCKJMCZNL4DSEE"
-  access_key = "TRdZ86wpqP4UxAFlTgYVrrbXx1KyHVDM9SU6lR1P"
+  access_key = "AKIA5MZCKJMC6XAPYEBO"
+  secret_key= "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"
 }
 
 module "vpc" {
